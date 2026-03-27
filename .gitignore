@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# AWS / credenciais
+*.pem
+.aws/
+
+# Ansible
+*.retry
+
+# Sistema
+.DS_Store

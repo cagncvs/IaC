@@ -1,0 +1,3 @@
+configurar ssh: ssh -i carol-goncalves.pem ubuntu@NOVO_IP
+criar arquivo html ola mundo: echo "<h1>Ola mundo</h1>" > index.html
+deixar o ola mundo rodando: nohup busybox httpd -f -p 8080 &
